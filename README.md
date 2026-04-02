@@ -1,2 +1,2 @@
 # how to run code:
-# Through the Python terminal, execute the command python hw1code.py to run the python file.
+Through the Python terminal, execute the command python hw3code.py to run the python file.
